@@ -1,5 +1,5 @@
 // const SERVER  = "http://localhost:8090/" //Production server
-const SERVER = "https://bloodbanklpu.herokuapp.com/"
+const SERVER = "https://blooddonorlive.herokuapp.com/"
 const AUTH = SERVER + "auth/"
 const BANK = SERVER + "bank/"
 const CAMP = SERVER + "camp/"
